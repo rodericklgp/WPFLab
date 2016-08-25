@@ -1,0 +1,2 @@
+E:\WorkSpaceRoot\Redapple\Git\WPFLab\leason1\bin\Debug\leason1.exe.config
+E:\WorkSpaceRoot\Redapple\Git\WPFLabRemote\leason1\bin\Debug\leason1.exe.config
